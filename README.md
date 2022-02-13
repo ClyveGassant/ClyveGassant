@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **ClyveGassant/ClyveGassant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### My name is Clyve Gassant and I am from Palm Beach County, Florida. Currently, I am in the class of 2025 at the University of Pennsylvania. I am undecided in my major but I have interests in healthcare and technology. I'm an avid runner and I love watching anime!
